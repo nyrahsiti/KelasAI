@@ -1,2 +1,0 @@
-# KelasAI
-For AI class
